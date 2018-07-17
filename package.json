@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/zhangxin7/node-practice/issues"
   },
-  "homepage": "https://github.com/zhangxin7/node-practice#readme"
+  "homepage": "https://github.com/zhangxin7/node-practice#readme",
+  "dependencies": {
+    "url": "^0.11.0"
+  }
 }
